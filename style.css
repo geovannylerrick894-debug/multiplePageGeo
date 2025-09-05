@@ -222,7 +222,7 @@ body {
   }
 
   .hero-pic img {
-    width: 180px;
+    width: 100%;
   }
 
   .hero-text h1 {
@@ -438,4 +438,5 @@ ul {
     width: 100%;
   }
 }
+
 
