@@ -218,6 +218,7 @@ body {
     flex-direction: column;
     text-align: center;
     padding: 20px;
+    padding-top: 8rem;
   }
 
   .hero-pic img {
@@ -437,3 +438,4 @@ ul {
     width: 100%;
   }
 }
+
